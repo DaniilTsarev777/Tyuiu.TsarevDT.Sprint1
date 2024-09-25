@@ -1,0 +1,11 @@
+﻿using tyuiu.cources.programming.interfaces.Sprint1;
+namespace Tyuiu.TsarevDT.Sprint1.Task2.V27.Lib
+{
+    public class DataService : ISprint1Task2V27
+    {
+        public int Calculate(int value)
+        {
+            return value * 4; 
+        }
+    }
+}
