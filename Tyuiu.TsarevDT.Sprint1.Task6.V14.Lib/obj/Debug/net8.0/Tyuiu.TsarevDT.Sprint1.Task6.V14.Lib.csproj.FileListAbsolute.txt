@@ -1,0 +1,15 @@
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.csproj.AssemblyReference.cache
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.AssemblyInfoInputs.cache
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.AssemblyInfo.cs
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.csproj.CoreCompileInputs.cache
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.sourcelink.json
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\bin\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.deps.json
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\bin\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.dll
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\bin\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.pdb
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\bin\Debug\net8.0\tyuiu.cources.programming.interfaces.dll
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.Ts.E6C9AF00.Up2Date
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.dll
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\refint\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.dll
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.pdb
+D:\repos\Tyuiu.TsarevDT.Sprint1\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib\obj\Debug\net8.0\ref\Tyuiu.TsarevDT.Sprint1.Task6.V14.Lib.dll
